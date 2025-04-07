@@ -1,0 +1,1 @@
+# Intune_Entra_GUI
